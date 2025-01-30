@@ -1,0 +1,7 @@
+pip freeze
+pip freeze | grep Django
+
+python manage.py runserver
+
+./manage.py startup
+
